@@ -1,5 +1,5 @@
-train: /content/dataset/images/train
-val: /content/dataset/images/val
+train: /content/Rede_Yolo/dataset/train/images
+val: /content/Rede_Yolo/dataset/val/images
 
 nc: 2
 names: ['olho', 'boca']
